@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Lukshan Sadeepa
 
-<!--
-**Lukshan0607/Lukshan0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate at SLIIT  
+💻 Full Stack Developer (Java | MERN)  
+🚀 Passionate about building scalable web applications  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Java, Spring Boot
+- MongoDB, MySQL
+- React, Node.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Projects
+- Online Event Planning System
+- Car Rental System
+- Plastic Bottle Recycling System
+
+## 📫 Contact Me
+- Email: yourmail@gmail.com
+- LinkedIn: linkedin.com/in/yourname
