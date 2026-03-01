@@ -16,5 +16,7 @@
 - Plastic Bottle Recycling System
 
 ## 📫 Contact Me
-- Email: yourmail@gmail.com
-- LinkedIn: linkedin.com/in/yourname
+- Email: lukshansadeepa@gmail.com
+- LinkedIn: www.linkedin.com/in/
+lukshan-karunarathna-219b58320
+
